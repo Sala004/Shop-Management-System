@@ -1,0 +1,30 @@
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\bin\Debug\net8.0\Bie Shop.exe
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\bin\Debug\net8.0\Bie Shop.deps.json
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\bin\Debug\net8.0\Bie Shop.runtimeconfig.json
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\bin\Debug\net8.0\Bie Shop.dll
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\bin\Debug\net8.0\Bie Shop.pdb
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\obj\Debug\net8.0\Bie Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\obj\Debug\net8.0\Bie Shop.AssemblyInfoInputs.cache
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\obj\Debug\net8.0\Bie Shop.AssemblyInfo.cs
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\obj\Debug\net8.0\Bie Shop.csproj.CoreCompileInputs.cache
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\obj\Debug\net8.0\Bie Shop.sourcelink.json
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\obj\Debug\net8.0\Bie Shop.dll
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\obj\Debug\net8.0\refint\Bie Shop.dll
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\obj\Debug\net8.0\Bie Shop.pdb
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\obj\Debug\net8.0\Bie Shop.genruntimeconfig.cache
+C:\Users\ma906\source\repos\Pie Shop\Bie Shop\obj\Debug\net8.0\ref\Bie Shop.dll
+D:\Projects\Shop-Management-System\Bie Shop\bin\Debug\net8.0\Bie Shop.exe
+D:\Projects\Shop-Management-System\Bie Shop\bin\Debug\net8.0\Bie Shop.deps.json
+D:\Projects\Shop-Management-System\Bie Shop\bin\Debug\net8.0\Bie Shop.runtimeconfig.json
+D:\Projects\Shop-Management-System\Bie Shop\bin\Debug\net8.0\Bie Shop.dll
+D:\Projects\Shop-Management-System\Bie Shop\bin\Debug\net8.0\Bie Shop.pdb
+D:\Projects\Shop-Management-System\Bie Shop\obj\Debug\net8.0\Bie Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Shop-Management-System\Bie Shop\obj\Debug\net8.0\Bie Shop.AssemblyInfoInputs.cache
+D:\Projects\Shop-Management-System\Bie Shop\obj\Debug\net8.0\Bie Shop.AssemblyInfo.cs
+D:\Projects\Shop-Management-System\Bie Shop\obj\Debug\net8.0\Bie Shop.csproj.CoreCompileInputs.cache
+D:\Projects\Shop-Management-System\Bie Shop\obj\Debug\net8.0\Bie Shop.sourcelink.json
+D:\Projects\Shop-Management-System\Bie Shop\obj\Debug\net8.0\Bie Shop.dll
+D:\Projects\Shop-Management-System\Bie Shop\obj\Debug\net8.0\refint\Bie Shop.dll
+D:\Projects\Shop-Management-System\Bie Shop\obj\Debug\net8.0\Bie Shop.pdb
+D:\Projects\Shop-Management-System\Bie Shop\obj\Debug\net8.0\Bie Shop.genruntimeconfig.cache
+D:\Projects\Shop-Management-System\Bie Shop\obj\Debug\net8.0\ref\Bie Shop.dll
