@@ -137,7 +137,7 @@ namespace Bie_Shop
                 sb.Append(Environment.NewLine);
             }
 
-            File.AppendAllText(filePath, sb.ToString());
+            File.WriteAllText(filePath, sb.ToString());
 
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Saved items successfully");

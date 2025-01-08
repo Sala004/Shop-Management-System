@@ -11,10 +11,9 @@ namespace Bie_Shop.General
         public double itemPrice {  get; set; }
         public Currency Currency { get; set; }
 
-        //public Price(Currency currency, double ItemPrice) 
-        //{
-        //    Currency = currency;
-        //    itemPrice = ItemPrice;
-        //}
+        public override string ToString()
+        {
+            return $"{itemPrice} {Currency}";
+        }
     }
 }

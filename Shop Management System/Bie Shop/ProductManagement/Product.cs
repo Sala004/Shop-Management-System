@@ -115,7 +115,7 @@ namespace Bie_Shop.ProductManagement
                 AmountInStock = maxItemsInStock;
             }
 
-            if (AmountInStock > 10)
+            if (AmountInStock > StockThreshold)
             {
                 IsBelowStockThreshold = false;
             }
@@ -152,6 +152,14 @@ namespace Bie_Shop.ProductManagement
             }
             
             Log(reason);
+        }
+
+        public void UpdateLowStock()
+        {
+            if(AmountInStock < StockThreshold)
+            {
+                IsBelowStockThreshold = true;
+            }
         }
 
         protected virtual double GetProductStockValue()

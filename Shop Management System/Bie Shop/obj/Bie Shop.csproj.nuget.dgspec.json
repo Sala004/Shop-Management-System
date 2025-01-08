@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Shop-Management-System\\Bie Shop\\Bie Shop.csproj": {}
+    "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\Bie Shop.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Shop-Management-System\\Bie Shop\\Bie Shop.csproj": {
+    "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\Bie Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Shop-Management-System\\Bie Shop\\Bie Shop.csproj",
+        "projectUniqueName": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\Bie Shop.csproj",
         "projectName": "Bie Shop",
-        "projectPath": "D:\\Projects\\Shop-Management-System\\Bie Shop\\Bie Shop.csproj",
+        "projectPath": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\Bie Shop.csproj",
         "packagesPath": "C:\\Users\\ma906\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Shop-Management-System\\Bie Shop\\obj\\",
+        "outputPath": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ma906\\AppData\\Roaming\\NuGet\\NuGet.Config",

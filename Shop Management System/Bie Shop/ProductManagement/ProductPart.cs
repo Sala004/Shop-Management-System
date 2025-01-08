@@ -17,14 +17,6 @@ namespace Bie_Shop.ProductManagement
                 StockThreshold = newStockTreshhold;
         }
 
-        public void UpdateLowStock()
-        {
-            if (AmountInStock < 10)
-            {
-                IsBelowStockThreshold = true;
-            }
-        }
-
         protected void Log(string message)
         {
             //this could be written to a file

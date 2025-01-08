@@ -57,7 +57,7 @@ namespace Bie_Shop.ProductManagement
             }
             else
             {
-                AmountInStock = maxItemsInStock;
+                AmountInStock = maxItemsInStock; //we only store the possible items, overstock isn't stored
                 Log($"{createSimpleProductRepresentation} stack overflow, {newStock - AmountInStock} item(s) ordered that couldn't be stored");
             }
 

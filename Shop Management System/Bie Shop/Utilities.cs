@@ -272,7 +272,9 @@ namespace Bie_Shop
             }
 
             if (newProduct != null)
+            {
                 inventory.Add(newProduct);
+            }
         }
 
         public static void ShowAllUnitTypes()
@@ -411,9 +413,9 @@ namespace Bie_Shop
             do
             {
                 ShowAllProductsOverview();
-                Console.WriteLine("Which Product do you want to order? (enter 0 to stop adding new products to the order.");
+                Console.WriteLine("Which Product do you want to order? (enter 0 to stop adding new products to the order).");
 
-                Console.WriteLine("Enter the ID of Product: ");
+                Console.Write("Enter the ID of Product: ");
                 selectedProductID = Console.ReadLine();
 
                 if(selectedProductID != "0")
@@ -424,6 +426,14 @@ namespace Bie_Shop
                     {
                         Console.Write("How many do you want to order?: ");
                         int amountOrdered = int.Parse(Console.ReadLine());
+
+                        if(amountOrdered > selectedProduct.AmountInStock)
+                        {
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine($"The requested quantity for {selectedProduct.Name} is not available.");
+                            Console.ResetColor();
+                            continue;
+                        }
 
                         OrderItem orderItem = new OrderItem
                         {
@@ -440,9 +450,17 @@ namespace Bie_Shop
 
             } while (selectedProductID != "0");
 
-            Console.WriteLine("Creating Order...");
-            orders.Add(newOrder);
-            Console.WriteLine("Order now created.");
+            if (newOrder.OrderItems.Count > 0)
+            {
+                Console.WriteLine("Creating Order...");
+                orders.Add(newOrder);
+                Console.WriteLine("Order now created.");
+            }
+            else
+            {
+                Console.WriteLine("You haven't ordered anything!");
+            }
+
             Console.ReadLine();
         }
 
