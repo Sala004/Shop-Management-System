@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bie Shop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9758968076ca82fd4e4ebb14268e90cd802b5bbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3ecbb276889586f7c7a69ae985923cde6bd03c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bie Shop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bie Shop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

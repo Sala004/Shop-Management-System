@@ -7,32 +7,8 @@
       "RelativeMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|solutionrelative:bie shop\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|d:\\projects\\shop-management-system\\shop management system\\bie shop\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|solutionrelative:bie shop\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|d:\\projects\\shop-management-system\\shop management system\\bie shop\\ordermanagement\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|solutionrelative:bie shop\\ordermanagement\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|d:\\projects\\shop-management-system\\shop management system\\bie shop\\general\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|solutionrelative:bie shop\\general\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|d:\\projects\\shop-management-system\\shop management system\\bie shop\\productmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|solutionrelative:bie shop\\productmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|d:\\projects\\shop-management-system\\shop management system\\bie shop\\productmanagement\\productpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|solutionrelative:bie shop\\productmanagement\\productpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|d:\\projects\\shop-management-system\\shop management system\\bie shop\\productmanagement\\bulkproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|solutionrelative:bie shop\\productmanagement\\bulkproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|d:\\projects\\shop-management-system\\shop management system\\bie shop\\productmanagement\\boxedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|solutionrelative:bie shop\\productmanagement\\boxedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|d:\\projects\\shop-management-system\\shop management system\\bie shop\\productmanagement\\freshproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F47DB4-FBE3-4A88-B92C-38D009802756}|Bie Shop\\Bie Shop.csproj|solutionrelative:bie shop\\productmanagement\\freshproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,93 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Utilities.cs",
-              "DocumentMoniker": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\Utilities.cs",
-              "RelativeDocumentMoniker": "Bie Shop\\Utilities.cs",
-              "ToolTip": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\Utilities.cs",
-              "RelativeToolTip": "Bie Shop\\Utilities.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAuwE8AAAAjAAAAAAAAAA==",
+              "Title": "FreshProduct.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\ProductManagement\\FreshProduct.cs",
+              "RelativeDocumentMoniker": "Bie Shop\\ProductManagement\\FreshProduct.cs",
+              "ToolTip": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\ProductManagement\\FreshProduct.cs",
+              "RelativeToolTip": "Bie Shop\\ProductManagement\\FreshProduct.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDYAAAClAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T14:18:46.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\ProductManagement\\Product.cs",
-              "RelativeDocumentMoniker": "Bie Shop\\ProductManagement\\Product.cs",
-              "ToolTip": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\ProductManagement\\Product.cs",
-              "RelativeToolTip": "Bie Shop\\ProductManagement\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T11:23:49.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductPart.cs",
-              "DocumentMoniker": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\ProductManagement\\ProductPart.cs",
-              "RelativeDocumentMoniker": "Bie Shop\\ProductManagement\\ProductPart.cs",
-              "ToolTip": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\ProductManagement\\ProductPart.cs",
-              "RelativeToolTip": "Bie Shop\\ProductManagement\\ProductPart.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T11:22:36.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BulkProduct.cs",
-              "DocumentMoniker": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\ProductManagement\\BulkProduct.cs",
-              "RelativeDocumentMoniker": "Bie Shop\\ProductManagement\\BulkProduct.cs",
-              "ToolTip": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\ProductManagement\\BulkProduct.cs",
-              "RelativeToolTip": "Bie Shop\\ProductManagement\\BulkProduct.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAB/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T11:06:49.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BoxedProduct.cs",
-              "DocumentMoniker": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\ProductManagement\\BoxedProduct.cs",
-              "RelativeDocumentMoniker": "Bie Shop\\ProductManagement\\BoxedProduct.cs",
-              "ToolTip": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\ProductManagement\\BoxedProduct.cs",
-              "RelativeToolTip": "Bie Shop\\ProductManagement\\BoxedProduct.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAowDsAAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T11:00:47.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\OrderManagement\\Order.cs",
-              "RelativeDocumentMoniker": "Bie Shop\\OrderManagement\\Order.cs",
-              "ToolTip": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\OrderManagement\\Order.cs",
-              "RelativeToolTip": "Bie Shop\\OrderManagement\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T10:59:52.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Price.cs",
-              "DocumentMoniker": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\General\\Price.cs",
-              "RelativeDocumentMoniker": "Bie Shop\\General\\Price.cs",
-              "ToolTip": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\General\\Price.cs",
-              "RelativeToolTip": "Bie Shop\\General\\Price.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T10:55:03.217Z",
+              "WhenOpened": "2025-01-09T00:03:17.117Z",
               "EditorCaption": ""
             },
             {
@@ -139,7 +41,7 @@
               "RelativeDocumentMoniker": "Bie Shop\\ProductRepository.cs",
               "ToolTip": "D:\\Projects\\Shop-Management-System\\Shop Management System\\Bie Shop\\ProductRepository.cs",
               "RelativeToolTip": "Bie Shop\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T10:53:44.8Z",
               "EditorCaption": ""

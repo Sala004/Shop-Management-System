@@ -82,7 +82,18 @@ namespace Bie_Shop
                             break;
 
                         case "2":
-                            product = new FreshProduct(productId, name, description, new Price() { itemPrice = ItemPrice, Currency = currency }, unitType, maxItemsInStock);
+                            success = DateTime.TryParse(productSplits[8], out DateTime Date);
+                            if (!success)
+                            {
+                                Date = DateTime.MinValue;
+                            }
+
+                            string Storage = productSplits[9];
+                            product = new FreshProduct(productId, name, description, new Price() { itemPrice = ItemPrice, Currency = currency }, unitType, maxItemsInStock)
+                            {
+                                ExpiryDateTime = Date,
+                                StorageInstructions = Storage
+                            };
                             break;
                         case "3":
                             product = new BulkProduct(productId, name, description, new Price() { itemPrice = ItemPrice, Currency = currency }, maxItemsInStock);

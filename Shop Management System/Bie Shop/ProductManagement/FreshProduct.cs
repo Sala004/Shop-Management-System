@@ -52,7 +52,7 @@ namespace Bie_Shop.ProductManagement
 
         public string ConvertToStringForSaving()
         {
-            return $"{Id};{Name};{Description};{maxItemsInStock};{Price.itemPrice};{(int)Price.Currency};{(int)UnitType};{2};";
+            return $"{Id};{Name};{Description};{maxItemsInStock};{Price.itemPrice};{(int)Price.Currency};{(int)UnitType};{2};{ExpiryDateTime};{StorageInstructions}";
         }
 
     }
